@@ -4,7 +4,7 @@ import Hero from './components/hero/Hero'
 
 const App = () => {
   return (
-   <main>
+   <main className='bg-[#0d182e]'>
     <Hero />
    </main>
   )
